@@ -4,7 +4,7 @@
   <img src="https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-relationships/gym-membership-exercise/Image_122_GymGoers.png" alt="Anupam Mahapatra on Unsplash" width="500"/>
 </p>
 
-Word has just come from the higher-ups, and you're in charge of building out a domain that keeps track of weightlifters and the gyms they lift at.  Yes gyms. Everyone knows you need a weekday gym and a weekend gym. And one for when you're traveling, and one that you go to just to show off.  Oh, and that one with a really great steam room.  Gotta love the steam room.
+Word has just come from the higher-ups, and you're in charge of building out a domain that keeps track of weightlifters and the gyms they lift at. Yes gyms. Everyone knows you need a weekday gym and a weekend gym. And one for when you're traveling, and one that you go to just to show off. Oh, and that one with a really great steam room. Gotta love the steam room.
 
 ## Setup (Code Overview)
 
@@ -22,30 +22,30 @@ Here's what we need to be able to do.
 
 **Lifter**
 
-  - Get a list of all lifters
+DONE - Get a list of all lifters
 
-  - Get a list of all the memberships that a specific lifter has
+Done - Get a list of all the memberships that a specific lifter has
 
-  - Get a list of all the gyms that a specific lifter has memberships to
+Done - Get a list of all the gyms that a specific lifter has memberships to
 
-  - Get the average lift total of all lifters
+Done- Get the average lift total of all lifters
 
-  - Get the total cost of a specific lifter's gym memberships
+Done - Get the total cost of a specific lifter's gym memberships
 
-  - Given a gym and a membership cost, sign a specific lifter up for a new gym
+Done - Given a gym and a membership cost, sign a specific lifter up for a new gym
 
 **Membership**
 
-  - Get a list of all memberships
+Done - Get a list of all memberships
 
 **Gym**
 
-  - Get a list of all gyms
+Done - Get a list of all gyms
 
-  - Get a list of all memberships at a specific gym
+Done - Get a list of all memberships at a specific gym
 
-  - Get a list of all the lifters that have a membership to a specific gym
+Done - Get a list of all the lifters that have a membership to a specific gym
 
-  - Get a list of the names of all lifters that have a membership to that gym
+Done- Get a list of the names of all lifters that have a membership to that gym
 
-  - Get the combined lift total of every lifter has a membership to that gym
+DONE- Get the combined lift total of every lifter has a membership to that gym
